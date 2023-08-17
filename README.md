@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/enzoferrari1/TP-API/blob/master/README.en.md)
+
+
 # Trabajo Práctico - Redes de Datos
 Trabajo final de la materia Redes de datos
 
